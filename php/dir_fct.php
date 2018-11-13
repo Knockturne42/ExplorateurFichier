@@ -1,18 +1,17 @@
 <?php
-	$dir = "./sources";
-	function is_my_dir($dir)
-	{
-		if (is_dir($dir)) {
-			if ($dh = opendir($dir))
-			{
-				while(($file = readdir($dh)) !== false)
-				{
-					echo "fichier/dossier: ".$file." type:".filetype($dir . $file).'<br>';
-				}
-				closedir($dh);
+$dir = "./";
+function lectureDossier($dir){
+	if (is_dir($dir)){
+		if ($dh = opendir($dir)){
+			$table = array();
+			while(($file = readdir($dh)) !== false){
+				array_push($stack, $file);
 			}
+			closedir($dh);
 		}
 	}
+	return $table;
+}
 
-	is_my_dir($dir);
+lectureDossier($dir);
 ?>
