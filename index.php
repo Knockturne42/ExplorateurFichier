@@ -13,16 +13,16 @@
 		<!-- <?php
 			include 'php/dir_fct.php';
 		?> -->
-		<div class="dossier"><img src="./img/icone dossier.png" alt="">
+		<div class="dossier"><img src="./img/pictures.svg" alt="">
 			<p>titre du dossier</p>
 			<p>infos</p>
 		</div>
 
-		<div class="dossier"><img src="./img/icone dossier.png" alt="">
+		<div class="dossier"><img src="./img/dossier.svg" alt="">
 			<p>titre du dossier</p>
 			<p>infos</p>
 		</div>
-		<div class="dossier"><img src="./img/icone dossier.png" alt="">
+		<div class="dossier"><img src="./img/file.svg" alt="">
 			<p>titre du dossier</p>
 			<p>infos</p>
 		</div>
