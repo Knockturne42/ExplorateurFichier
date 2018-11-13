@@ -5,7 +5,7 @@ function lectureDossier($dir){
 		if ($dh = opendir($dir)){
 			$table = array();
 			while(($file = readdir($dh)) !== false){
-				array_push($stack, $file);
+				array_push($table, $file);
 			}
 			closedir($dh);
 		}
@@ -13,5 +13,5 @@ function lectureDossier($dir){
 	return $table;
 }
 
-lectureDossier($dir);
+
 ?>
