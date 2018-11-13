@@ -31,6 +31,7 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: fixed;
 }
 
 main{
@@ -38,6 +39,11 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.dossier {
+	width: 20%;
+	height: auto;
 }
 
 #back{

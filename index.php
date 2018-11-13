@@ -22,7 +22,6 @@
 			<p>titre du dossier</p>
 			<p>infos</p>
 		</div>
-
 		<div class="dossier"><img src="./img/icone dossier.png" alt="">
 			<p>titre du dossier</p>
 			<p>infos</p>

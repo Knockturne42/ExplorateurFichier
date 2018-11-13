@@ -1,5 +1,5 @@
 <?php
-	$dir = "./";
+	$dir = "./sources";
 	function is_my_dir($dir)
 	{
 		if (is_dir($dir)) {
@@ -7,7 +7,7 @@
 			{
 				while(($file = readdir($dh)) !== false)
 				{
-					echo "fichier/dossier: ".$file." type:".filetype($file).'<br>';
+					echo "fichier/dossier: ".$file." type:".filetype($dir . $file).'<br>';
 				}
 				closedir($dh);
 			}
