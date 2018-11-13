@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="246.86065"
+     inkscape:cx="-90.530298"
      inkscape:cy="608.01402"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,36 +58,36 @@
        id="rect3810"
        width="192.9686"
        height="191.36497"
-       x="9.6217022"
-       y="19.03969" />
+       x="8.5526237"
+       y="37.214016" />
     <rect
        id="rect3713"
        width="59.868374"
        height="57.195675"
-       x="28.865108"
-       y="33.472244"
-       style="fill:#f4d7d7;stroke-width:0.26458332" />
+       x="26.726952"
+       y="65.010048"
+       style="fill:#ffffff;stroke-width:0.26458332" />
     <rect
        id="rect3713-3"
        width="59.868374"
        height="57.195679"
-       x="115.46043"
-       y="34.274055"
-       style="fill:#f4d7d7;stroke-width:0.26458332" />
+       x="116.5295"
+       y="63.139168"
+       style="fill:#ffffff;stroke-width:0.26458332" />
     <rect
        id="rect3713-6"
        width="59.868374"
        height="57.195679"
-       x="29.399647"
-       y="120.86938"
-       style="fill:#ffd5d5;stroke-width:0.26458332" />
+       x="29.934185"
+       y="151.3381"
+       style="fill:#ffffff;stroke-width:0.26458332" />
     <rect
        id="rect3713-7"
        width="59.868374"
        height="57.195679"
-       x="116.5295"
-       y="120.33485"
-       style="fill:#f4d7d7;stroke-width:0.26458332" />
+       x="118.66766"
+       y="150.26903"
+       style="fill:#ffffff;stroke-width:0.26458332" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -156,46 +156,75 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="37.952274"
-       y="64.47551"
+       x="36.348656"
+       y="94.409698"
        id="text3948"><tspan
          sodipodi:role="line"
          id="tspan3946"
-         x="37.952274"
-         y="64.47551"
+         x="36.348656"
+         y="94.409698"
          style="stroke-width:0.26458332">Dossier</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="127.75483"
-       y="152.13991"
+       x="128.28937"
+       y="183.14317"
        id="text3952"><tspan
          sodipodi:role="line"
          id="tspan3950"
-         x="127.75483"
-         y="152.13991"
+         x="128.28937"
+         y="183.14317"
          style="stroke-width:0.26458332">Dossier</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="127.22029"
-       y="64.47551"
+       x="126.68575"
+       y="95.478775"
        id="text3956"><tspan
          sodipodi:role="line"
          id="tspan3954"
-         x="127.22029"
-         y="64.47551"
+         x="126.68575"
+         y="95.478775"
          style="stroke-width:0.26458332">Fichier</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="39.555889"
-       y="151.60538"
+       x="41.159508"
+       y="182.60864"
        id="text3960"><tspan
          sodipodi:role="line"
          id="tspan3958"
-         x="39.555889"
-         y="151.60538"
+         x="41.159508"
+         y="182.60864"
          style="stroke-width:0.26458332">Fichier</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect31"
+       width="188.69228"
+       height="14.432549"
+       x="10.690781"
+       y="11.556147" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.381561"
+       y="23.316006"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="21.381561"
+         y="23.316006"
+         style="stroke-width:0.26458332">Chemin du dossier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.97036"
+       y="20.10877"
+       id="text39"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         x="45.97036"
+         y="29.47254"
+         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>
