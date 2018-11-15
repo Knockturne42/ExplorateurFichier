@@ -1,11 +1,8 @@
 <?php
 $affiche=lectureDossier($dir);
-
-function display($affiche) {
-    
+function display($affiche, $dir) {
     foreach ($affiche as $key => $value) {
-       
-        if (filetype($value) != 'dir' ) {
+        if (filetype($dir . $value) != 'dir' ) {
             
             if (strchr($value, '.png') || strchr($value, '.svg') || strchr($value, '.jpeg') || strchr($value, '.jpg') || strchr($value, '.gif')) { 
                
@@ -29,6 +26,6 @@ function display($affiche) {
     }
 }
 
-display($affiche);
+display($affiche, $dir);
 
 ?>

@@ -12,6 +12,4 @@ function lectureDossier($dir){
 	}
 	return $table;
 }
-
-
 ?>

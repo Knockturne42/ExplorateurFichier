@@ -4,12 +4,13 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="./css/style.css">
 	<title>Files Explorer</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
 	<header>
 		<p id="path"></p>
 	</header>
-	<main>
+	<main id="main">
 		<?php
 			include 'php/dir_fct.php';
 			include 'php/div_fct.php'; 
