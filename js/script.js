@@ -1,4 +1,4 @@
-function myLoad() {
-  $('#main').load('index.php');
-}
-setInterval(myLoad(), 1000);
+// function myLoad() {
+//   $('#main').load('index.php');
+// }
+// setInterval(myLoad(), 1000);

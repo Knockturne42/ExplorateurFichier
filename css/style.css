@@ -42,7 +42,7 @@ main{
 }
 
 .dossier {
-	width: 20%;
+	width: 25%;
 	height: auto;
 }
 
@@ -54,4 +54,8 @@ main{
 #back input{
     width: 100%;
     height: 100%;
+}
+
+p{
+    word-wrap: break-word;
 }
