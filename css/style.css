@@ -35,15 +35,16 @@ footer{
 }
 
 main{
-    padding: 5%;
+
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    flex-wrap: wrap;    
 }
 
 .dossier {
 	width: 25%;
-	height: auto;
+    height: auto;
+    padding-left:6.25%;
+    padding-top: 2%;
 }
 
 #back{
@@ -58,4 +59,19 @@ main{
 
 p{
     word-wrap: break-word;
+}
+
+@media screen and (min-width: 980px){
+    .dossier {
+        width: 10%;
+        height: auto;
+        padding-left: 7.75%;
+    }
+
+    body{
+        font-size: 3vw;
+    }
+    #back{
+        width: 4%;
+    }
 }
